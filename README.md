@@ -6,7 +6,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/twitter-clone.git
+git clone https://github.com/blue725/headstarter-july2023-project3.git
 ```
 
 ### Install packages
